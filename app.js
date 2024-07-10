@@ -11,5 +11,5 @@ app.get('/hello_world', (req,res)=>{
 res.send('Hello World');
 })
 app.get('/', (req,res)=>{
-res.send('Hello World from root 123');
+res.send('autoscalling Server');
 })
