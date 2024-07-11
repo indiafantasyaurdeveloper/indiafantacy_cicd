@@ -11,5 +11,5 @@ app.get('/hello_world', (req, res) => {
     res.send('Hello World');
 })
 app.get('/', (req, res) => {
-    res.send('Octal IT Solution LLP');
+    res.send('Octal IT Solution LLP - Autoscalling');
 })
