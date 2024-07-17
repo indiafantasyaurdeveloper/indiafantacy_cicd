@@ -1,5 +1,6 @@
 module.exports = {
   apps : [{
+    name: 'api-server',
     script: 'app.js',
     watch: false
   }],
